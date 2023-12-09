@@ -1,6 +1,6 @@
-# Mintlify Starter Kit
+# Medera LLM-BHM
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+The Large Language Model Behavioral Health Machine (LLM-BHM) is intend to a optimize backend for managing LLMs. It serves to facilitate communication, analysis and coordination between data, language models(running on the CPU), prompts, and various tools to streamline AGI development.
 
 - Guide pages
 - Navigation
