@@ -2,6 +2,8 @@
 
 The Large Language Model Behavioral Health Machine (LLM-BHM) is intend to a optimize backend for managing LLMs. It serves to facilitate communication, analysis and coordination between data, language models(running on the CPU), prompts, and various tools to streamline AGI development.
 
+## Features of LLM-BHM:
+
 - Guide pages
 - Navigation
 - Customizations
