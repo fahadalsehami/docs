@@ -5,7 +5,7 @@ The Large Language Model Behavioral Health Machine (LLM-BHM) is intend to a opti
 ## Features of LLM-BHM:
 
 #### - Inference optamization: 
- The Anarchy LLM-VM is optimized from agent level all the way to assembly on known LLM architectures to get the most bang for your buck. With state of the art batching, sparse inference and quantization, distillation, and multi-level colocation, we aim to provide the fastest framework available.
+ The Medera LLM-BHM is optimized from agent level all the way to assembly on known LLM architectures to get the most bang for your buck. With state of the art batching, sparse inference and quantization, distillation, and multi-level colocation, we aim to provide the fastest framework available.
 - Navigation
 - Customizations
 - API Reference pages
